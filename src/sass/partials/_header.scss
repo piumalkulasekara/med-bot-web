@@ -2,4 +2,13 @@
   background-color: $white;
   border-bottom: $header-border-bottom;
   padding: $header-padding;
+  .logo {
+    span {
+      font-size: 22px;
+      font-weight: bold;
+      position: absolute;
+      top: 28px;
+      margin-left: 10px;
+    }
+  }
 }
